@@ -14,6 +14,6 @@ After scaling:
 
 Task 2:
 
-The file winequality-red-full.csv is used for this task. It contains the full dataset in which each row has 12 features. Will be using this dataset to predict the quality of the wine from the other variables using regression and the effect that reducing the dimensionality of the dataset will have on the performance of the regression algorithm.
+The file winequality-red-full.csv is used for this task. It contains the full dataset in which each row has 12 features. Will be using this dataset to predict the quality of the wine from the other variables using PCA and the effect that reducing the dimensionality of the dataset will have on the performance of the regression algorithm.
 
 ![image](https://user-images.githubusercontent.com/102992254/163505447-cc2181a1-87ce-4aa3-bced-4142d260ea6f.png)
